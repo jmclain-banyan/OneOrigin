@@ -18,7 +18,7 @@ Make a 1000 API calls to an endpoint that has a rate limit of 100 requests per 1
 
 ### Solution
 
-Create a function that will dispatch requests with in the parameters set.
+Create a function that will dispatch total required requests with in the restrictions set.
 
 ### Code Explanation
 

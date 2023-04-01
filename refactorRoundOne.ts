@@ -54,4 +54,4 @@ console.time("end");
 console.timeLog("started");
 
 // invoke the batch function, approximately 10 minutes for completion
-sendBatch("/users", 5, 1, 12);
+sendBatch("/users", 100, 60, 1000);

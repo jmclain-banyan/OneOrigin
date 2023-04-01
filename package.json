@@ -1,0 +1,14 @@
+{
+  "name": "oneorigin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roundOne.js",
+  "scripts": {
+    "roundOne": "ts-node refactorRoundOne.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
